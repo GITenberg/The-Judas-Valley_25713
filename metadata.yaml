@@ -1,0 +1,40 @@
+_repo: The-Judas-Valley_25713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Silverberg, Robert
+    birthdate: 1935
+    gutenberg_agent_id: '28358'
+    url: http://www.gutenberg.org/2009/agents/28358
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
+  - agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    - Jorgensen, Ivar
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: This work was published under the name Gerald Vance, a pseudonym used
+  by Randall Garrett, Robert Silverberg, Henry Slesar and Roger P. Graham.  The Internet
+  Speculative Fiction Database attributes "The Judas Valley" to Randall Garrett and
+  Robert Silverberg.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Judas Valley
+url: http://www.gutenberg.org/ebooks/25713
